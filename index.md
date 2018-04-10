@@ -1,7 +1,7 @@
 # Ansel MacLaughlin
 
 ## About
-I am a second year PhD Student at the College of Computer and Information Science at Northeastern University. I study Natural Language Processing with [David Smith](http://www.ccs.neu.edu/home/dasmith/) on natural language processing. Previously, I studied Computer Science and Greek and Roman studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
+I am a second year PhD Student at the College of Computer and Information Science at Northeastern University. I study Natural Language Processing with [David Smith](http://www.ccs.neu.edu/home/dasmith/). Previously, I studied Computer Science and Greek and Roman studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Publications
 ### 2018
