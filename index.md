@@ -1,3 +1,6 @@
+---
+title: Ansel
+---
 # Ansel MacLaughlin
 
 ## About
