@@ -9,7 +9,7 @@ I am a fourth year (2016 - present) PhD Student at the College of Computer and I
 * _Ansel MacLaughlin_, John Wihbey, and David A Smith. [Predicting News Coverage of Scientific Articles](MacLaughlin-Wihbey.pdf). In 12th International AAAI Conference on Web and Social Media (ICWSM’18), 2018
 
 ### 2016
-* Preston Tunnell Wilson, William Kalescky, _Ansel MacLaughlin_, and Betsy Williams. [Vr locomotion: Walking > walking in place > arm swinging](http://dl.acm.org/ft_gateway.cfm?id=3014010&type=pdf) ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry, 2016
+* Preston Tunnell Wilson, William Kalescky, _Ansel MacLaughlin_, and Betsy Williams. [VR locomotion: Walking > Walking in Place > Arm Swinging](http://dl.acm.org/ft_gateway.cfm?id=3014010&type=pdf) ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry, 2016
 
 
 ## Other Publications
