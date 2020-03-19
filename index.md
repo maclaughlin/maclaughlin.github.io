@@ -12,7 +12,7 @@ I am a fourth year (2016 - present) PhD Student at the College of Computer and I
 * Preston Tunnell Wilson, William Kalescky, _Ansel MacLaughlin_, and Betsy Williams. [Vr locomotion: Walking > walking in place > arm swinging](http://dl.acm.org/ft_gateway.cfm?id=3014010&type=pdf) ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry, 2016
 
 #### Other Publications
-* Miriam Clinton with _Ansel MacLaughlin_. House of the Rhyta at Pseira: 3D Crowdsourcingin an Online Virtual Environment. New Directions and Paradigms for the Study of Greek Architecture. Brill, 2020
+* Miriam Clinton with _Ansel MacLaughlin_. House of the Rhyta at Pseira: 3D Crowdsourcing in an Online Virtual Environment. New Directions and Paradigms for the Study of Greek Architecture. Brill, 2020
 
 * _Ansel MacLaughlin_, John Wihbey, and David A Smith. Modeling the Propagation of Science News. Presented at Text as Data, University of Washington, 2018
 
