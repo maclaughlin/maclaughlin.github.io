@@ -3,7 +3,7 @@ I am a fourth year (2016 - present) PhD Student at the College of Computer and I
 
 ## Refereed Conference & Journal Publications
 ### 2020
-* _Ansel MacLaughlin_, John Wihbey, Aleszu Bajak, and David A Smith. Source Attribution: Recovering the Press Releases Behind Health Science News. In 14th International AAAI Conference on Web and Social Media (ICWSM’20), 2020
+* _Ansel MacLaughlin_, John Wihbey, Aleszu Bajak, and David A Smith. [Source Attribution: Recovering the Press Releases Behind Health Science News](maclaughlin-icwsm-2020.pdf). In 14th International AAAI Conference on Web and Social Media (ICWSM’20), 2020
 
 ### 2018
 * _Ansel MacLaughlin_, John Wihbey, and David A Smith. [Predicting News Coverage of Scientific Articles](MacLaughlin-Wihbey.pdf). In 12th International AAAI Conference on Web and Social Media (ICWSM’18), 2018
