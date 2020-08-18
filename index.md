@@ -3,7 +3,7 @@ I am a fifth year (2016 - present) PhD Student at the College of Computer and In
 
 ## Refereed Conference & Journal Publications
 ### 2021
-* _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In 15th International AAAI Conference on Web and Social Media (ICWSM’20), 2020
+* _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
 
 
 ### 2020
