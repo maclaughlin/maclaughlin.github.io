@@ -2,6 +2,10 @@
 I am a fourth year (2016 - present) PhD Student at the College of Computer and Information Science at Northeastern University. I study Natural Language Processing with [David Smith](http://www.ccs.neu.edu/home/dasmith/). Previously, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Refereed Conference & Journal Publications
+### 2021
+* _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In 15th International AAAI Conference on Web and Social Media (ICWSM’20), 2020
+
+
 ### 2020
 * _Ansel MacLaughlin_, John Wihbey, Aleszu Bajak, and David A Smith. [Source Attribution: Recovering the Press Releases Behind Health Science News](maclaughlin-icwsm-2020.pdf). In 14th International AAAI Conference on Web and Social Media (ICWSM’20), 2020
 
