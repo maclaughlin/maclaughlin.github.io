@@ -1,5 +1,5 @@
 ## About
-I am a fourth year (2016 - present) PhD Student at the College of Computer and Information Science at Northeastern University. I study Natural Language Processing with [David Smith](http://www.ccs.neu.edu/home/dasmith/). Previously, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
+I am a fifth year (2016 - present) PhD Student at the College of Computer and Information Science at Northeastern University. I study Natural Language Processing with [David Smith](http://www.ccs.neu.edu/home/dasmith/). Previously, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Refereed Conference & Journal Publications
 ### 2021
