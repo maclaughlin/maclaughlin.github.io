@@ -16,7 +16,7 @@ I am a fifth year (2016 - present) PhD Student at the College of Computer and In
 * _Ansel MacLaughlin_, John Wihbey, and David A Smith. [Predicting News Coverage of Scientific Articles](MacLaughlin-Wihbey.pdf). In Proceedings of the 12th International AAAI Conference on Web and Social Media (ICWSM’18), 2018
 
 ### 2016
-* Preston Tunnell Wilson, _Ansel MacLaughlin_, William Kalescky, and Betsy Williams. Utilizing myo armbands for various locomotion methods. [Utilizing myo armbands for various locomotion methods](http://ieeevr.org/2016/program/research-demos/). Research Demo at IEEE Conference on Virtual Reality and 3D User Interfaces, 2016. 
+* Preston Tunnell Wilson, _Ansel MacLaughlin_, William Kalescky, and Betsy Williams. Utilizing myo armbands for various locomotion methods. [Utilizing Myo Armbands for Various Locomotion Methods](http://ieeevr.org/2016/program/research-demos/). Research Demo at IEEE Conference on Virtual Reality and 3D User Interfaces, 2016. 
 
 * Preston Tunnell Wilson, William Kalescky, _Ansel MacLaughlin_, and Betsy Williams. [VR locomotion: Walking > Walking in Place > Arm Swinging](http://dl.acm.org/ft_gateway.cfm?id=3014010&type=pdf) In Proceedings of the 15th ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry, 2016
 
