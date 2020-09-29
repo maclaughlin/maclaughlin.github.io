@@ -23,6 +23,6 @@ I am a fifth year (2016 - present) PhD Student at the College of Computer and In
 ### Book Chapter
 * Miriam Clinton with _Ansel MacLaughlin_. House of the Rhyta at Pseira: 3D Crowdsourcing in an Online Virtual Environment. New Directions and Paradigms for the Study of Greek Architecture. Brill, 2020
 
-## Publications
+## Links
 * [Google Scholar](https://scholar.google.com/citations?user=0mK21vwAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/ansel-maclaughlin/)
