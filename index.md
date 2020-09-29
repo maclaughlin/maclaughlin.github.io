@@ -3,7 +3,7 @@ I am a fifth year (2016 - present) PhD Student at the College of Computer and In
 
 ## Publications
 ### 2021
-* _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
+* _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In Proceedings of the 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
 
 ### 2020
 * _Ansel MacLaughlin_, Jwala Dhamala, Anoop Kumar, Sriram Venkatapathy, Ragav Venkatesan and Rahul Gupta. Evaluating the Effectiveness of Efficient Neural Architecture Search for Sentence-Pair Tasks. In Proceedings of the 2020 EMNLP Workshop: Insights from Negative Results in NLP, 2020
