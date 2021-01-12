@@ -6,15 +6,16 @@ If you use either of our datasets, please cite our paper:
 
 ```bibtex
 @inproceedings{maclaughlin-smith-2021-content,
-  author={Ansel MacLaughlin, David A. Smith},
+  author={Ansel MacLaughlin and David A. Smith},
   title={Content-based Models of Quotation},
   booktitle={EACL},
   year={2021}
 }
 ```
 
+### kjb-ca.jsonl: King James Bible - Chronicling America: 
 
-### King James Bible - Chronicling America (kjb-ca.jsonl): 
-
-* Each fi
+* JSON Lines file (each line contains a JSON record)
+* Each record contains the following fields:
+  * Chapter
 
