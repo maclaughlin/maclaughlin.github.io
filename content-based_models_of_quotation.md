@@ -16,6 +16,11 @@ If you use either of our datasets, please cite our paper:
 ### kjb-ca.jsonl: King James Bible - Chronicling America: 
 
 * JSON Lines file (each line contains a JSON record)
-* Each record contains the following fields:
-  * Chapter
-
+* Each record contains information for a single verse and has the following fields:
+  * text: the text of the verse (e.g. "In the beginning God created the heaven...")
+  * testament: Old Testament (OT) or New Testament (NT)
+  * book: the corresponding book (e.g. Genesis)
+  * chapter: the verse's chapter in the book (e.g. 1)
+  * verse: the verse number in the chapter (e.g. 4)
+  * quote: number of times the corresponding verse was quoted in the Chronicling America collection
+* This data is simply a processed version of the America's Public Bible dataset from https://americaspublicbible.org/
