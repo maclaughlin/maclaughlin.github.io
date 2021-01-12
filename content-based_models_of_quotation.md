@@ -30,6 +30,6 @@ If you use either of our datasets, please cite our paper:
 
 * JSON Lines file (each line contains a JSON record)
 * Each record contains information for a single quote and has the following fields:
-  * book: the URN[http://sites.tufts.edu/perseusupdates/2021/01/05/what-is-a-cts-urn/] (e.g. urn:cts:greekLit:tlg2042.tlg028.1st1K-lat1)
+  * book: the [URN](http://sites.tufts.edu/perseusupdates/2021/01/05/what-is-a-cts-urn/) (e.g. urn:cts:greekLit:tlg2042.tlg028.1st1K-lat1)
 * This data is simply a processed version of the America's Public Bible dataset from https://americaspublicbible.org/
 
