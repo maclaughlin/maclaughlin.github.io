@@ -35,7 +35,7 @@ If you use either of our datasets, please cite our paper:
 * How to use:
   * We are unable to share the full text of the original Latin works due to copyright restrictions.
   * The file latin-works-metadata.jsonl contains a list of section URNs for each Latin work. 
-  * Use the [Perseus CTS API](https://sites.tufts.edu/perseusupdates/beta-features/perseus-cts-api/) and the list of URNs to download the full text of each work with an associated quote (there are 329 books total). 
+  * Use the [Perseus CTS API](https://sites.tufts.edu/perseusupdates/beta-features/perseus-cts-api/) and the list of URNs to download the full text of each work with an associated quote (there are 329 works total). 
   * For each quote in lat-ejc.jsonl, match the quoted string back to its original location in the full text.
   * Process each full text with the [Stanza Model](https://stanfordnlp.github.io/stanza/available_models.html) trained on [UD Latin Perseus](https://universaldependencies.org/treebanks/la_perseus/index.html)
   * Label each sentence in each full text Latin work with the number of quotes that overlap with it.
