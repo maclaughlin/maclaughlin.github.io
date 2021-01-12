@@ -31,7 +31,7 @@ If you use either of our datasets, please cite our paper:
 * JSON Lines file (each line contains a JSON record)
 * Each record contains information for a single quote and has the following fields:
   * book: the [URN](http://sites.tufts.edu/perseusupdates/2021/01/05/what-is-a-cts-urn/) (e.g. urn:cts:greekLit:tlg2042.tlg028.1st1K-lat1)
-  * quoted_text: text of a single quote
+  * quoted_text: text of the quoted source passage
 * How to use:
   * We are unable to share the full text of the original Latin works due to copyright restrictions.
   * The file latin-works-metadata.jsonl contains the list section URNs for each Latin work. 
