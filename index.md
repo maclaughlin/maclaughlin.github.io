@@ -5,7 +5,7 @@ I am a fifth year (2016 - present) PhD Student at the College of Computer and In
 ### 2021
 * _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In Proceedings of the 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
 
-* _Ansel MacLaughlin_ and David A Smith. [Content-based Models of Quotation](maclaughlin-EACL-2021.pdf). In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), 2021. [[Data](content-based_models_of_quotation.md)]
+* _Ansel MacLaughlin_ and David A Smith. [Content-based Models of Quotation](macLaughlin-EACL-2021.pdf). In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), 2021. [[Data](content-based_models_of_quotation.md)]
 
 ### 2020
 * _Ansel MacLaughlin_, Jwala Dhamala, Anoop Kumar, Sriram Venkatapathy, Ragav Venkatesan and Rahul Gupta. [Evaluating the Effectiveness of Efficient Neural Architecture Search for Sentence-Pair Tasks](https://www.aclweb.org/anthology/2020.insights-1.4.pdf). In Proceedings of the 2020 EMNLP Workshop: Insights from Negative Results in NLP, 2020
