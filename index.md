@@ -3,7 +3,7 @@ I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I rec
 
 ## Publications
 ### 2021
-* _Ansel MacLaughlin_\*, Shaobin Xu\*, and David A Smith. Recovering Lexically and Semantically Reused Texts. In Proceedings of the Tenth Joint Conference on Lexical and Computational Semantics (*SEM), 2021. 
+* _Ansel MacLaughlin_\*, Shaobin Xu\*, and David A Smith. Recovering Lexically and Semantically Reused Texts. In Proceedings of the Tenth Joint Conference on Lexical and Computational Semantics (\*SEM), 2021
 
 * _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In Proceedings of the 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
 
