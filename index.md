@@ -1,8 +1,10 @@
 ## About
-I am an applied scientist at Amazon Alexa NLU in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
+I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Publications
 ### 2021
+* _Ansel MacLaughlin_*, Shaobin Xu*, and David A Smith. Recovering Lexically and Semantically Reused Texts. In Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM), 2021. 
+
 * _Ansel MacLaughlin_, Tao Chen, Burcu Karagol Ayan, and Dan Roth. [Context-Based Quotation Recommendation](maclaughlin-icwsm-2021.pdf). In Proceedings of the 15th International AAAI Conference on Web and Social Media (ICWSM’21), 2021
 
 * _Ansel MacLaughlin_ and David A Smith. [Content-based Models of Quotation](https://www.aclweb.org/anthology/2021.eacl-main.195.pdf). In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), 2021. [[Data](content-based_models_of_quotation.md)]
