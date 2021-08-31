@@ -1,5 +1,5 @@
 ## About
-I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
+I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During my undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Publications
 ### 2021
