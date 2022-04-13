@@ -2,6 +2,9 @@
 I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During my undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
 
 ## Publications
+### 2022
+* Rahul Sharma, Anil Ramakrishna, _Ansel MacLaughlin_, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, and Rahul Gupta. Federated Learning with Noisy User Feedback. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2022
+
 ### 2021
 * _Ansel MacLaughlin_\*, Shaobin Xu\*, and David A Smith. [Recovering Lexically and Semantically Reused Texts](https://aclanthology.org/2021.starsem-1.5.pdf). In Proceedings of \*SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics, 2021
 
