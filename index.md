@@ -1,9 +1,9 @@
 ## About
-I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/). During my undergrad, I studied Computer Science and Greek and Roman Studies at Rhodes College and conducted Virtual Environment research with [Betsy Sanders](https://www.rhodes.edu/bio/sandersb). 
+I am a Machine Learning Engineer at Square in Salt Lake City, UT. Previously, I was an Applied Scientist at Amazon Alexa AI in Cambridge, MA. I received my PhD in Computer Science from Northeastern University, where I conducted natural language processing and computational social science research with [David Smith](http://www.ccs.neu.edu/home/dasmith/).
 
 ## Publications
 ### 2023
-* _Ansel MacLaughlin_, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav and Rahul Gupta. [Self-Healing Through Error Detection, Attribution, and Retraining](self-healing-through-error-detection-attribution-and-retraining.pdf). In International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023
+* _Ansel MacLaughlin_, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav and Rahul Gupta. [Self-Healing Through Error Detection, Attribution, and Retraining](self-healing-through-error-detection-attribution-and-retraining.pdf). In Proceedings of the 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023
 
 ### 2022
 * Rahul Sharma\*, Anil Ramakrishna\*, _Ansel MacLaughlin_, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, and Rahul Gupta. [Federated Learning with Noisy User Feedback](https://arxiv.org/pdf/2205.03092.pdf). In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2022
