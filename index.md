@@ -3,7 +3,7 @@ I am an applied scientist at Amazon Alexa AI in Cambridge, MA. Previously, I rec
 
 ## Publications
 ### 2023
-* _Ansel MacLaughlin_, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav and Rahul Gupta. [Self-Healing Through Error Detection, Attribution, and Retraining](). In International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023
+* _Ansel MacLaughlin_, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav and Rahul Gupta. [Self-Healing Through Error Detection, Attribution, and Retraining](self-healing-through-error-detection-attribution-and-retraining.pdf). In International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023
 
 ### 2022
 * Rahul Sharma\*, Anil Ramakrishna\*, _Ansel MacLaughlin_, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, and Rahul Gupta. [Federated Learning with Noisy User Feedback](https://arxiv.org/pdf/2205.03092.pdf). In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2022
